@@ -1,6 +1,6 @@
 # Quack
 Quack is a mobile e-commerce application. It was made as a group project for the CS308 "Software Engineering" course in Sabancı University.  
-Group members for the project were: Berk Turhan, Cihan Senturk, Mehmet Yavuz Yalcin, Zeynep Kilinc, Nilay Irem Gucin, Dilara Mustecep, Metin Berkay Atakli  
+The app has been written using Flutter/dart. 
   
 Homepage:  
 ![Homepage](https://user-images.githubusercontent.com/51164676/122942665-aacb8b80-d376-11eb-8f4f-31c5321c241a.png)
